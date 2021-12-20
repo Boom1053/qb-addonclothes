@@ -3,3 +3,6 @@ Base folders for GTA Add-on clothing so you don't have to replace vanilla clothe
 
 this shit works
 im just slow when it comes to eup.
+
+# discord
+https://discord.gg/S9tRGm8NSD

@@ -5,4 +5,4 @@ this shit works
 im just slow when it comes to eup.
 
 # discord
-https://discord.gg/S9tRGm8NSD
+My Dev Discord - https://discord.gg/S9tRGm8NSD
